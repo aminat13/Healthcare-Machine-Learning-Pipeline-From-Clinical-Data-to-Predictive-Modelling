@@ -1,4 +1,4 @@
-# Healthcare Machine Learning Pipeline: From Clinical Data to Predictive-Modelling
+# Healthcare Machine Learning Pipeline: From Clinical Data to Predictive Modelling
 
 ## Overview
 
